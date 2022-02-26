@@ -32,8 +32,7 @@ __LOW LEVEL REQUIREMENTS__
 
 | ID    |                    DESCRPTION                                                            | HLR ID |   STATUS  |
 |-------|------------------------------------------------------------------------------------------|--------|-----------|
-| HR01  |  Microcontroller                                                                         |  HR01  |IMPLEMENTED| 
-                                                   
+| HR01  |  Microcontroller                                                                         |  HR01  |IMPLEMENTED|                                                    
 | HR02  |  Coin Validator                                                                          |  HR02  |IMPLEMENTED|
 | HR03  |  Submissivve waterpump                                                                   |  HR03  |IMPLEMENTED| 
 | HR04  |  Volage regulator                                                                        |  HR04  |IMPLEMENTED|
@@ -42,3 +41,36 @@ __LOW LEVEL REQUIREMENTS__
 | LR02  |  Electrolytic capacitor 1uf                                                              |        |IMPLEMENTED|
 | LR03  |  Crystal Oscillator 16 MHZ                                                               |        |IMPLEMENTED|
 | LR04  |  Resistor 10KΩ                                                                           |        |IMPLEMENTED|
+
+__Cost and Features__
+
+•	Previously separate bottle were bought for each litre of bottles.
+•	bottles can be reused.
+•	cost of expenditure spend on water bottles can be reduced.
+•	coin vending machine implemented on water.
+•	Easily dispense water.
+•	Various Essential needs regarding water can be reduced.
+
+## 4W's and 1'H
+
+__Who:__
+
+•	All the organisation who wants to reduce the usage of use throw water bottles aswell as who dont wanna waste water.
+
+__What:__
+
+•	Earlier Many Companies and commercial places were inefficient due to the wastage of water and usage of too much water bottles.	
+
+__When:__
+
+•	As the wastage decreases the expenses also decreses .
+•	With the decrease of expenses the cost spend on that expenses can be used on the development of the commercial.
+
+__Where:__
+
+•	This problem is surfaced in all the organisation in the world.
+
+__How:__
+
+•	This project takes in a coin and then dispense the water in the the bottle.
+
