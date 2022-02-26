@@ -22,8 +22,7 @@ __LOW LEVEL REQUIREMENTS__
 
 | ID    |                    DESCRPTION                                                            | HLR ID |   STATUS  |
 |-------|------------------------------------------------------------------------------------------|--------|-----------|
-| HR01  |  Microcontroller                                                                         |  HR01  |IMPLEMENTED| 
-                                                   
+| HR01  |  Microcontroller                                                                         |  HR01  |IMPLEMENTED|                                                    
 | HR02  |  Coin Validator                                                                          |  HR02  |IMPLEMENTED|
 | HR03  |  Submissivve waterpump                                                                   |  HR03  |IMPLEMENTED| 
 | HR04  |  Volage regulator                                                                        |  HR04  |IMPLEMENTED|
