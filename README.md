@@ -59,11 +59,6 @@ __How:__
 
 ## Learning Resources
 
-1.tutorials point
-
-2.geeksforgeeks
-
-3.fUTURE SKILLS
 
 
 
