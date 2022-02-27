@@ -63,6 +63,9 @@ It takes the Input from the Sensors and performs computation and drives the outp
 
 
 * Water level sensor-it senses the level of water when in a container of water.
+
+
+
 __Objectives:__
 
 •	This project aims to simplify the task of reducing the usage of plastic water bottles by implementing water-vending machines .
