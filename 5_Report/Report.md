@@ -18,6 +18,9 @@
   
    4.3 Sensors
    
+5.Objective
+6.4Ws and 1H
+   
 
 # 1.Project Description
 In this project, we are going to make a Water vending system using ATMEGA328 microcontroller and coin validator .Coin validator we are using is GD100f.The GD100f is a three type coin accpetor.The coin validator acts as a input it provides a pulse signal the to atmega 328. The water pump is the output . Water pump will be mouted on top of water tank. The pump will dispense water from the tank once the pulse signal is given by the validator. For more accuracy water level sensor can be added to monitor the tank level
