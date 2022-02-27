@@ -71,7 +71,7 @@ It takes the Input from the Sensors and performs computation and drives the outp
 
 
 
-__Objectives:__
+## 5.Objectives
 
 •	This project aims to simplify the task of reducing the usage of plastic water bottles by implementing water-vending machines .
 •	To develop an well-designed circut using coin validation sensensor and water pump . 
@@ -86,7 +86,7 @@ __Cost and Features__
 •	Easily dispense water.
 •	Various Essential needs regarding water can be reduced.
 
-## 4W's and 1'H
+## 6.4W's and 1'H
 
 __Who:__
 
