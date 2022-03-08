@@ -60,7 +60,7 @@ __How:__
 ## Learning Resources
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ee99fcf94a43486c9a241f3306df0900)](https://www.codacy.com/gh/prabakaran-8bit/M2_Emsys_watervendor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prabakaran-8bit/M2_Emsys_watervendor&amp;utm_campaign=Badge_Grade)
-[![Codacy Badge]](https://api.codiga.io/project/31733/score/svg)
+[![Codacy Badge](https://api.codiga.io/project/31733/score/svg)
 [![Codacy Badge]](https://api.codiga.io/project/31733/status/svg)
 
  
