@@ -110,10 +110,16 @@ __How:__
 •	This project takes in a coin and then dispense the water in the the bottle.
 
 
-## Build and Badges
+## 7.Build and Badges
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ee99fcf94a43486c9a241f3306df0900)](https://www.codacy.com/gh/prabakaran-8bit/M2_Emsys_watervendor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prabakaran-8bit/M2_Emsys_watervendor&amp;utm_campaign=Badge_Grade)
 ![Codiga Badge](https://api.codiga.io/project/31733/score/svg)
 ![Codiga Badge](https://api.codiga.io/project/31733/status/svg)
 [![Compile-Linux](https://github.com/prabakaran-8bit/M2_Emsys_watervendor/actions/workflows/Compile-Linux.yml/badge.svg?branch=main)](https://github.com/prabakaran-8bit/M2_Emsys_watervendor/actions/workflows/Compile-Linux.yml)
+## 8.output
+
+
+https://user-images.githubusercontent.com/73412166/157295566-9e191c83-e859-4fa3-8a61-e18de53181c4.mp4
+
+
 
 
