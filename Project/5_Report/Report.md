@@ -55,10 +55,14 @@ In this project, we are going to make a Water vending system using ATMEGA328 mic
 # 3.Block Diagram
 
 Structural Diagram
+
+
 ![embeddedblockdiag](https://github.com/prabakaran-8bit/M2_Emsys_watervendor/blob/e3721a7776b40f54687dbe4ec3f690024426b644/5_Report/blockdiagram.png)
 
 
 Behavioral Diagram
+
+
 ![embeddedblockdiag](https://github.com/prabakaran-8bit/M2_Emsys_watervendor/blob/27105a25c3bd81e0836c0495f682529956c7a680/Project/5_Report/behavioraldiagram.png)
 
 
