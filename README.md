@@ -62,7 +62,6 @@ __How:__
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ee99fcf94a43486c9a241f3306df0900)](https://www.codacy.com/gh/prabakaran-8bit/M2_Emsys_watervendor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prabakaran-8bit/M2_Emsys_watervendor&amp;utm_campaign=Badge_Grade)
 ![Codiga Badge](https://api.codiga.io/project/31733/score/svg)
 ![Codiga Badge](https://api.codiga.io/project/31733/status/svg)
-[![Build Linux](https://github.com/prabakaran-8bit/M2_Emsys_watervendor/actions/workflows/build-linux.yml/badge.svg)](https://github.com/prabakaran-8bit/M2_Emsys_watervendor/actions/workflows/build-linux.yml)
 [![Compile-Linux](https://github.com/prabakaran-8bit/M2_Emsys_watervendor/actions/workflows/Compile-Linux.yml/badge.svg?branch=main)](https://github.com/prabakaran-8bit/M2_Emsys_watervendor/actions/workflows/Compile-Linux.yml)
 
 
