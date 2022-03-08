@@ -1,2 +1,0 @@
-watervendor.a1::watervendor.c
-watervendor.a2::watervendor.c
