@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<analyzerinfo checksum="3303630607">
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="main" lineNumber="9"/>
+    <functiondecl functionName="startADC" lineNumber="34"/>
+    <functiondecl functionName="Conversion" lineNumber="43"/>
+    <functiondecl functionName="ISR" lineNumber="48"/>
+    <functiondecl functionName="ISR" lineNumber="53"/>
+    <functioncall functionName="ADC"/>
+    <functioncall functionName="ADC_vect"/>
+    <functioncall functionName="Conversion"/>
+    <functioncall functionName="Cycle"/>
+    <functioncall functionName="ISR"/>
+    <functioncall functionName="TIMER0_OVF_vect"/>
+    <functioncall functionName="if"/>
+    <functioncall functionName="sei"/>
+    <functioncall functionName="startADC"/>
+    <functioncall functionName="void"/>
+    <functioncall functionName="while"/>
+  </FileInfo>
+</analyzerinfo>
