@@ -1,0 +1,5 @@
+main call:[sei,startADC]
+startADC call:[Conversion] noreturn:[Conversion]
+Conversion
+ISR global:[Cycle]
+ISR global:[Cycle] call:[Conversion] noreturn:[Conversion]
