@@ -20,8 +20,12 @@
    
 5.Objective
 
-
 6.4Ws and 1H
+
+7.Build and Badges
+8.Output
+
+
    
 
 # 1.Project Description
@@ -115,7 +119,7 @@ __How:__
 ![Codiga Badge](https://api.codiga.io/project/31733/score/svg)
 ![Codiga Badge](https://api.codiga.io/project/31733/status/svg)
 [![Compile-Linux](https://github.com/prabakaran-8bit/M2_Emsys_watervendor/actions/workflows/Compile-Linux.yml/badge.svg?branch=main)](https://github.com/prabakaran-8bit/M2_Emsys_watervendor/actions/workflows/Compile-Linux.yml)
-## 8.output
+## 8.Output
 
 
 https://user-images.githubusercontent.com/73412166/157295566-9e191c83-e859-4fa3-8a61-e18de53181c4.mp4
