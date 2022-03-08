@@ -1,6 +1,9 @@
 
 
 ## Title : Water-Vendor system
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/77eb10602b724c58946eb85cac9f996d)](https://app.codacy.com/gh/prabakaran-8bit/M2_Emsys_watervendor?utm_source=github.com&utm_medium=referral&utm_content=prabakaran-8bit/M2_Emsys_watervendor&utm_campaign=Badge_Grade_Settings)
+
 Introduction In this project, we are going to make a Water vending system using ATMEGA328 microcontroller and coin validator .Coin validator we are using is GD100f.The GD100f is a three type coin accpetor.The coin validator  acts as a input it provides a pulse signal the to atmega 328.  The water pump is the output . Water pump will be mouted on top of water tank. The pump will dispense water from the tank once the pulse signal is given by the validator. For more accuracy water level sensor can be added to monitor the tank level.
 
 ## Research
